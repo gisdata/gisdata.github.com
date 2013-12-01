@@ -86,7 +86,7 @@ JB :
   comments :
     provider : weibo
     disqus :
-      short_name : jekyllbootstrap
+      short_name : opengis
     livefyre :
       site_id : 123
     intensedebate :
@@ -98,7 +98,7 @@ JB :
       colorscheme: light
     weibo :
       appkey : 2673137117
-      ralateuid : 1648815335
+      ralateuid : 3924226886
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
