@@ -12,14 +12,14 @@ description_length: 200
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 午夜咖啡
-tagline: "Jolestar's Blog"
+title : GIS数据共享
+tagline: "GIS Data Sharing"
 author :
-  name : Jolestar
-  email : jolestar at gmail.com
-  github : jolestar
-  twitter : jolestar
-  feedburner : jolestar
+  name : GIS 数据共享
+  email : opensourcegis@126.com
+  github : gisdata
+  twitter : 
+  feedburner : 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -29,7 +29,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://jolestar.com
+production_url : http://gisdata.github.io/
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
