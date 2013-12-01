@@ -13,9 +13,9 @@ group: "navigation"
 GIS数据共享平台
 
 
-* [@jolestar at weibo][weibo]
+* [@GISData at weibo][weibo]
 
-* [jolestar at github][github]
+* [GISData at github][github]
 
 
 
