@@ -19,8 +19,8 @@ GIS数据共享平台
 
 
 
-[weibo]: http://weibo.com/jolestar
+[weibo]: http://weibo.com/u/3924226886/home?wvr=5
 
 
-[github]: http://github.com/jolestar
+[github]: https://github.com/gisdata
 
