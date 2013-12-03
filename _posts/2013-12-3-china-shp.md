@@ -2,7 +2,7 @@
 title: 中国shp图共享
 author: Adminstrator
 layout: post
-permalink:  /gis-data-sharing-meaning/
+permalink:  /china-shp/
 tags:
   - datasharing
 ---
