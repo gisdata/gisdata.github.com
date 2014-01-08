@@ -9,7 +9,7 @@ tags:
   
 ---
 
-##辽宁省地质构造图
+
 
 ![辽宁省地质构造图](http://ww4.sinaimg.cn/large/6ff04438tw1eccl1f0qjjj20ir0ektb6.jpg)
 
