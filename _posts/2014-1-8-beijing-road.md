@@ -8,7 +8,8 @@ tags:
   - 路网
   
 -------
-对http://www.datatang.com/data/43855提供的GDB格式的北京路网原始数据进行处理分析，生成了文本格式的数据，方便使用和分析，文件如下：
+对http://www.datatang.com/data/43855      
+提供的GDB格式的北京路网原始数据进行处理分析，生成了文本格式的数据，方便使用和分析，文件如下：
 vertices.txt为路口数据文件，格式如下：vid lat lng
 edges.txt为道路数据文件, 格式如下：eid start_vid end_vid
 geos.txt为道路细节数据，格式如下：eid lat1 lng1 lat2 lng2 ...
